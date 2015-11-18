@@ -1,2 +1,2 @@
-# hello-cruel-world
+# hello-world
 hello world first attempt
